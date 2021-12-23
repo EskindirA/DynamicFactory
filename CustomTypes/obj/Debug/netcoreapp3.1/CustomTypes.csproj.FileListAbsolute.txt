@@ -1,0 +1,8 @@
+C:\Users\Eskindir Abebe\source\repos\DynamicActivator\CustomTypes\bin\Debug\netcoreapp3.1\CustomTypes.deps.json
+C:\Users\Eskindir Abebe\source\repos\DynamicActivator\CustomTypes\bin\Debug\netcoreapp3.1\CustomTypes.dll
+C:\Users\Eskindir Abebe\source\repos\DynamicActivator\CustomTypes\bin\Debug\netcoreapp3.1\CustomTypes.pdb
+C:\Users\Eskindir Abebe\source\repos\DynamicActivator\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.AssemblyInfoInputs.cache
+C:\Users\Eskindir Abebe\source\repos\DynamicActivator\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.AssemblyInfo.cs
+C:\Users\Eskindir Abebe\source\repos\DynamicActivator\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.csproj.CoreCompileInputs.cache
+C:\Users\Eskindir Abebe\source\repos\DynamicActivator\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.dll
+C:\Users\Eskindir Abebe\source\repos\DynamicActivator\CustomTypes\obj\Debug\netcoreapp3.1\CustomTypes.pdb
